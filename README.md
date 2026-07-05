@@ -2,7 +2,7 @@
 
 A minimalist Movie Watchlist & Review interface built with React. Manage a dynamic list of movies, toggle their watched status, search and filter in real time — all client-side with localStorage persistence.
 
-**Live Demo:** [Add your Vercel URL here]
+**Live Demo:** [https://cinetrack-eight-alpha.vercel.app](https://cinetrack-eight-alpha.vercel.app/)
 
 ## Features
 
@@ -32,7 +32,7 @@ A minimalist Movie Watchlist & Review interface built with React. Manage a dynam
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/cinetrack.git
+   git clone https://github.com/joti14/cinetrack.git
    cd cinetrack
    ```
 
