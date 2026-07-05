@@ -3,7 +3,7 @@ export default function MovieCard({ movie, onToggleWatched, onDelete }) {
 
   return (
     <div className="bg-reel-surface border border-reel-border rounded-lg overflow-hidden flex flex-col group">
-      <div className="relative aspect-[2/3] bg-reel-surface2 overflow-hidden">
+      <div className="relative aspect-2/3 bg-reel-surface2 overflow-hidden">
         <img
           src={posterUrl}
           alt={`${title} poster`}

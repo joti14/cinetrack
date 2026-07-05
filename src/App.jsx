@@ -12,7 +12,6 @@ export default function App() {
   const [search, setSearch] = useState("");
   const [status, setStatus] = useState("all");
 
-  // Simulate an async fetch on first load so the skeleton state is visible.
   useEffect(() => {
     const timer = setTimeout(() => setLoading(false), 900);
     return () => clearTimeout(timer);
